@@ -27,7 +27,6 @@ OpenHuman 是一个开源的 AI 助手平台，运行在你的本地电脑上。
 ```bash
 git clone https://github.com/tinyhumansai/openhuman.git cd openhuman pnpm install pnpm dev:app
 
-
 ## 贡献
 
 欢迎提交 PR 和 Issue！
