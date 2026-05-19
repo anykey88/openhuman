@@ -30,5 +30,10 @@ https://github.com/tinyhumansai/openhuman.git
 cd openhuman pnpm install pnpm
 dev:app
 
+## 贡献
 
+欢迎提交 PR 和 Issue！
 
+## 许可证
+
+GPL-3.0
